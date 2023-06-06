@@ -1,0 +1,22 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "cSpell.words": [
+    "bodyparts",
+    "Colab",
+    "convertcsv",
+    "cuda",
+    "deeplabcut",
+    "displayiters",
+    "imgaug",
+    "kmeans",
+    "maxiters",
+    "outlieralgorithm",
+    "resnet",
+    "saveiters",
+    "videotype",
+    "visualizeindividuals"
+  ]
+}
